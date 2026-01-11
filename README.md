@@ -1,3 +1,8 @@
+## READ THIS!
+
+This is an fps unlocker for something called Pekora/ProjectX/Korone. All I did was modify the main.cpp to look for ProjectXPlayerBeta.exe instead of RobloxPlayerBeta.exe
+So far only supports 2020 and 2021 client versions but I will make a version that works for 2017 and 2018 clients soon.
+
 ## The End
 
 6 years after the creation of rbxfpsunlocker, [Roblox has added](https://devforum.roblox.com/t/introducing-the-maximum-framerate-setting/2995965) a `Maximum Frame Rate` setting to the in-game menu. [🎉🎉🎉](https://media.tenor.com/g16jQZqbvWoAAAAC/yippee-happy.gif)!
