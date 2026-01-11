@@ -1,7 +1,9 @@
 ## READ THIS!
 
 This is an fps unlocker for something called Pekora/ProjectX/Korone. All I did was modify the main.cpp to look for ProjectXPlayerBeta.exe instead of RobloxPlayerBeta.exe
+
 Only supports 2021, 2020, and 2018 client versions as the 2017 client does not have taskscheduler implemented yet which is what rbxfpsunlocker uses to uncap the fps.
+
 If I try to use any older versions of rbxfpsunlocker before version 4.0, that might not go very well as those have a dll injector in them that was getting people banned from games like Fortnite. Don't really wanna risk that.
 
 ## The End
